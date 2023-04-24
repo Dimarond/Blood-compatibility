@@ -16,3 +16,4 @@ Inheritance and genetic components:
 
 
 Bibliography:
+https://learn.genetics.utah.edu/content/basics/blood
