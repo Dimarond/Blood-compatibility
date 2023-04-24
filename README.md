@@ -11,6 +11,8 @@ Blood is a tissue even if it has a liquid form and just like any other transplan
 
 Antigen and antibodies pics and description:
 
+Inheritance and genetic components:
+
 
 
 Bibliography:
