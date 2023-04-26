@@ -1,12 +1,14 @@
 # Blood-compatibility
 
 
-Blood has in it's components red blood cells, plasma, proteins and white blood cels.
-
-PIC of components
 
 
-Distinct molecules called agglutinogens (a type of antigen) are attached to the surface of red blood cells. There are two different types of agglutinogens, type "A" and type "B". Each type has different properties. The ABO blood type classification system uses the presence or absence of these molecules to categorize blood into four types.
+Blood components:
+-Red blood cells
+-White blood cells/Platelets
+-Plasma
+
+
 
 
 Blood is a tissue even if it has a liquid form and just like any other transplant it is necessary to prepare the donors and recievers according to the most modern clinical guides.
@@ -15,6 +17,7 @@ Antigen and antibodies pics and description:
 
 Inheritance and genetic components:
 
+![Screenshot 2023-04-26 170514](https://user-images.githubusercontent.com/59809057/234601138-86742449-ab24-47c2-aeee-4e34ce11da92.jpg)
 
 
 
