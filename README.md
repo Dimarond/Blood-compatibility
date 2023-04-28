@@ -4,9 +4,13 @@
 
 
 Blood components:
--Red blood cells
+
+-Red blood cells(RBC)
 -White blood cells/Platelets
 -Plasma
+
+
+RBC has antigens on the surface of the cell and if they come into contct with antibodies inside the plasma it will produce an imunological reaction called aglutination
 
 
 
