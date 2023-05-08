@@ -1,6 +1,9 @@
 # Blood-compatibility
 
 
+This project is a building block for a future web-app that implememts these scripts.
+
+
 
 
 Blood components:
