@@ -1,8 +1,8 @@
 def calculate_child_blood_types(parent1, parent2):
-
+# resolve the parents with OO blood alleles
 	alleles = {
-		'A': ['AA', 'AO'],
-		'B': ['BB', 'BO'],
+		'A': ['A', 'O'],
+		'B': ['B', 'O'],
 		'AB': ['A', 'B'],
 		'O': ['O']
 	}
@@ -40,7 +40,7 @@ def calculate_child_blood_types(parent1, parent2):
 				child_blood_types['B'] += 1
 				child_blood_types['O'] += 1
 	total = sum(child_blood_types.values())
-
+# make it in percentage
 	for blood_type in child_blood_types:
 		child_blood_types[blood_type] /= total
 
