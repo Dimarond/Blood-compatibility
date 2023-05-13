@@ -1,8 +1,8 @@
 def calculate_child_blood_types(parent1, parent2):
 
 	alleles = {
-		'A': ['A', 'O'],
-		'B': ['B', 'O'],
+		'A': ['AA', 'AO'],
+		'B': ['BB', 'BO'],
 		'AB': ['A', 'B'],
 		'O': ['O']
 	}
