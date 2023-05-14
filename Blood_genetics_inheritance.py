@@ -10,10 +10,6 @@ def calculate_child_blood_types(parent1, parent2):
 	parent1_alleles = alleles[parent1[0]] + alleles[parent1[1]]
 	parent2_alleles = alleles[parent2[0]] + alleles[parent2[1]]
 
-	if parent1[1] != 'O':
-		parent1_alleles = parent1_alleles[:-1]
-	if parent2[1] != 'O':
-		parent2_alleles = parent2_alleles[:-1]
         
 	child_blood_types = {
 		'A': 0,
