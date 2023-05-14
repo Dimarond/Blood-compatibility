@@ -4,7 +4,7 @@ def calculate_child_blood_types(parent1, parent2):
 		'A': ['A', 'O'],
 		'B': ['B', 'O'],
 		'AB': ['A', 'B'],
-		'O': ['O']
+		'O': ['O', 'O']
 	}
 
 	parent1_alleles = alleles[parent1[0]] + alleles[parent1[1]]
