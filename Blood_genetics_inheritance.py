@@ -43,13 +43,13 @@ def calculate_child_blood_types(parent1, parent2):
 	return child_blood_types
 
 
-parent1 = input("What is parent1 allele type?: ")
+parent1 = input("What is parent1 allele blood type?: ")
 while len(parent1) < 2:
-	print("Please input a valid allele corespinding to a blood type ex: AO, BO, AB or OO")
-	parent1 = input("What is parent1 blood type?: ")
-parent2 = input("What is parent2 blood type?: ")
+	print("Please input a valid allele corespinding to a blood type ex: AA,AO, BB, BO, AB or OO")
+	parent1 = input("What is parent1 allele blood type?: ")
+parent2 = input("What is parent2 allele blood type?: ")
 while len(parent2) < 2:
-	print("Please input a valid allele corespinding to a blood type ex: AO, BO, AB or OO")
-	parent2 = input("What is parent2 allele type?: ")
+	print("Please input a valid allele corespinding to a blood type ex: AA, AO, BB, BO, AB or OO")
+	parent2 = input("What is parent2 allele blood type?: ")
 child_blood_types = calculate_child_blood_types(parent1, parent2)
 print(child_blood_types)
